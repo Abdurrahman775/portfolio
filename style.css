@@ -84,7 +84,7 @@ display: flex;
 align-items: center;
 justify-content: center;
 text-align: center;
-color: black;
+color: #333;
 position: relative;
 overflow: hidden;
 }
@@ -472,4 +472,5 @@ transform: translateY(0);
     grid-template-columns: 1fr;
 }
 }
+
 
